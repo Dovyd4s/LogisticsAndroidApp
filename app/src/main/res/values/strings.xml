@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CargoApp</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="manufactured_date">Manufactured Date:</string>
+    <string name="plate_number">Plate Number</string>
+    <string name="avg_fuel_consumption_l">Avg. fuel consumption, l</string>
+    <string name="tank_size_l">Tank Size, l</string>
+    <string name="max_capacity_tonnes">Max Capacity, Tonnes</string>
+    <string name="weight_tonnes">Weight, Tonnes</string>
+    <string name="last_technical_check_date">Last Technical Check Date</string>
+    <string name="add_new_truck">Add Niu Trak</string>
+    <string name="model">Model</string>
+    <string name="make">Make</string>
+    <string name="vin">VIN</string>
+</resources>
